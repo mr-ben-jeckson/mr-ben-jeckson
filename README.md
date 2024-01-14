@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Fullstack Webdeveloper! 👋
 
 I'm a passionate Fullstack Web Developer with 6 years of experience in the field. I specialize in PHP frameworks such as Laravel and CodeIgniter, as well as working with raw PHP. On the frontend, I'm adept at using various JavaScript frameworks, including Vue and React.
 
@@ -44,5 +44,9 @@ Currently, I'm working on a logistics solution that involves flexible data for G
 
 - Intermediate / Conversational English
 - Local Burmese
+
+## Contact
+- LinkedIn: [Ben Jeckson](https://www.linkedin.com/in/mr-ben-jeckson)
+- Email: thanhtikexaw@gmail.com
 
 Feel free to explore my repositories to discover more about my coding journey! If you have any questions or want to collaborate, don't hesitate to reach out.

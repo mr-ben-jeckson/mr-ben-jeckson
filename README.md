@@ -27,8 +27,7 @@ Currently, I'm working on a logistics solution that involves flexible data for G
 
 ### Backend
 - PHP ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
-- Node.js (Laravel, Express)
-
+- Node.js ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ### Programming Languages
 - PHP ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
 - Node.js ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)

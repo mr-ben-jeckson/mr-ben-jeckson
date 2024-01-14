@@ -21,7 +21,7 @@ Currently, I'm working on a logistics solution that involves flexible data for G
 - jQuery
 - Vue ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 - Vanilla JS ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-- Alpine
+- Alpine.js ![Alpine.js](https://img.shields.io/badge/-Alpine.js-8BC0D0?style=flat-square&logo=Alpine.js&logoColor=white)
 - Nuxt ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=Nuxt.js&logoColor=white)
 - React ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white) (I prefer React over Vue)
 

@@ -10,9 +10,9 @@ My journey in web development began in 2017 when I started as an entry-level dev
 
 One of my major accomplishments is the development of an airline reservation system. This system is seamlessly integrated with global payment gateways, including 2c2p, Kasikorn Bank, and PayPal. The project involved ensuring secure transactions and a smooth user experience.
 
-## Current Focus
+## Current Work
 
-Currently, I'm working on a logistics solution that involves flexible data for Google mapping and kilometers distance calculation. The system also incorporates real-time notifications, enhancing its efficiency and user responsiveness.
+Currently, Doing nothing. Developing what's on my mind. Buying products from Software Vendors. Getting stuck with errors. Writing Research Papers for Blockchain, AI and Cloud Computing is my current job. DM me if you want Zero AI Detech and Plagiarism Free for your papers.
 
 ## Technical Skills
 

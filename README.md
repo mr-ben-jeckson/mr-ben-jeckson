@@ -12,7 +12,7 @@ One of my major accomplishments is the development of an airline reservation sys
 
 ## Current Work
 
-Currently, Doing nothing. Developing what's on my mind. Buying products from Software Vendors. Getting stuck with errors. Writing Research Papers for Blockchain, AI and Cloud Computing is my current job. DM me if you want Zero AI Detech and Plagiarism Free for your papers.
+Currently, Finding a potential OnSite or Remote Job to leverage my skills about web development
 
 ## Technical Skills
 
